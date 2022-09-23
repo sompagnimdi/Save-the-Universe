@@ -1,0 +1,17 @@
+.ship {
+    display: inline-block;
+}
+
+.alienShip {
+    position: relative;
+    top: 300px;
+}
+
+.myShip {
+padding: 20px;
+}
+
+body {
+    background-color:black;
+    
+}
